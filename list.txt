@@ -1,0 +1,54 @@
+! Anti IP Logger v1.0
+! https://github.com/randomtroller/anti-ip-logger
+
+! GRABIFY.LINK
+||lovebird.guru^
+||trulove.guru^
+||dateing.club^
+||otherhalf.life^
+||shrekis.life^
+||datasig.io^
+||datauth.io^
+||headshot.monster^
+||gaming-at-my.best^
+||progaming.monster^
+||yourmy.monster^
+||screenshare.host^
+||imageshare.best^
+||screenshot.best^
+||gamingfun.me^
+||catsnthing.com^
+||mypic.icu^
+||catsnthings.fun^
+||curiouscat.club^
+||joinmy.site^
+||fortnitechar.site^
+||freegiftcards.co^
+||stopify.co^
+||leancoding.co^
+||grabify.link^
+
+! IPLOGGER.ORG
+||iplogger.org^
+||2no.co^
+||iplogger.com^
+||iplogger.ru^
+||yip.su^
+||iplogger.co^
+||iplogger.info^
+||ipgrabber.ru^
+||iplis.ru^
+||02ip.ru^
+||ezstat.ru^
+
+! PS3CFW.COM
+ps3cfw.com/cool.php?$all
+
+! iknowwhatyoudownload.com/en/link/
+||ikwyd.com^
+
+! BLASZE.COM
+||blasze.tk^
+
+! IP-TRAP.COM
+||ythingy.com^
